@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @victoraniceto
 - 👀 I’m interested in learning to code.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on anything i can help.
+- 🤝 I’m looking to collaborate on anything i can help.
 - 📫 How to reach me just send me a message.
 
 <!---
